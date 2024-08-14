@@ -2,11 +2,7 @@
 
 ![](figures/Transformations_v10.png)
 
-This repository contains code and figures for our paper
-[Why Has Predicting Downstream Capabilities of Frontier AI Models with Scale Remained Elusive?](https://arxiv.org/abs/2406.04391)
-by Rylan Schaeffer, Hailey Schoelkopf, Brando Miranda, Gabriel Mukobi, Varun Madan, Adam Ibrahim, Herbie Bradley, Stella Biderman and Sanmi Koyejo.
-
-[![arXiv](https://img.shields.io/badge/arXiv-2406.04391-df2a2a.svg?style=for-the-badge)](https://arxiv.org/abs/2407.15211)
+This repository contains code and figures for our paper Why Has Predicting Downstream Capabilities of Frontier AI Models with Scale Remained Elusive?
 
 [**Setup**](#installation) | [**Usage**](#usage) | [**Contributing**](#contributing) | [**Citating**](#citing) | [**Contact**](#contact)
 
@@ -61,20 +57,6 @@ This project's code has three broad stages:
 Contributions are welcome! Please format your code with [black](https://github.com/psf/black).
 
 ## Citing
-
-To cite this work, please use:
-
-```bibtex
-@misc{schaeffer2024predictingdownstreamcapabilitiesfrontier,
-      title={Why Has Predicting Downstream Capabilities of Frontier AI Models with Scale Remained Elusive?}, 
-      author={Rylan Schaeffer and Hailey Schoelkopf and Brando Miranda and Gabriel Mukobi and Varun Madan and Adam Ibrahim and Herbie Bradley and Stella Biderman and Sanmi Koyejo},
-      year={2024},
-      eprint={2406.04391},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2406.04391}, 
-}
-```
 
 Note: We created a new clean repository for the review process; thus, this repo's commit history is not representative
 of each individual's contributions.
