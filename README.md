@@ -60,8 +60,3 @@ Contributions are welcome! Please format your code with [black](https://github.c
 
 Note: We created a new clean repository for the review process; thus, this repo's commit history is not representative
 of each individual's contributions.
-
-## Contact
-
-Questions? Comments? Interested in collaborating?
-Open an [issue](https://github.com/RylanSchaeffer/KoyejoLab-Why-Has-Predicting-Downstream-Capabilities-Remained-Elusive/issues) or email rschaef@cs.stanford.edu and sanmi@cs.stanford.edu.
